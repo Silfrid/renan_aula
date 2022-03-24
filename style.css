@@ -1,8 +1,9 @@
 body{
-    background-color: blue;
+    background-color: aqua;
     color: white;
     font-family: cursive;
 }
-div{
-    color: bisque;
+
+.destacado{
+    color: black;
 }
